@@ -1,12 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome the FSI Hackathon for Autism
 
-You can use the [editor on GitHub](https://github.com/FSI-Hackathon-for-Autism/FSI-Hackathon-for-Autism.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The FSI Autism Hackathon has been held annually since 2018 with the goal of bringing together Microsoft experts and the most talented developers from the Financial Services Industry to demonstrate how technology advancements in cloud, data, ML/AI can revolutionize the field of autism. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mission Statement
 
-### Markdown
+Leverage the power of Microsoft Azure to generate tangible, immediate impact to families using real world use cases and foster continued involvement through an open-source community. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2021 Use Cases:
+
+- Video Cognitive Therapy – Use video in therapy sessions so that cognitive services can be utilized to enable capturing antecedents of behavior, tracking of sentiment and language.
+- Ambient Data Collection – Leverage new technologies like Azure Kinect as a therapist assistant to identify stereotypies and collect data in an ambient manner.
+- IoT Data Collection – Utilize IoT technology to simplify and streamline data collection during therapy sessions, enabling therapists to focus on therapy.
+- AI/ML for Behavior Data – Find deeper correlations in Behavior data using ML/AI to provide more meaningful metrics to therapists and parents on progress
+
 
 ```markdown
 Syntax highlighted code block
